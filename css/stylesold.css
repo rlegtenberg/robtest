@@ -1,0 +1,81 @@
+body {
+	font-family:Helvetica, Verdana, sans-serif;
+	background-color: #dddddd;
+	padding: 10px;} 
+.page {
+	border: 1px solid #665544;
+	border-color:#c0c0c0;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color:#ffffff;
+	padding: inherit; }	
+.logo {
+	width: 150 px;
+	margin: 10px auto 25px auto;
+}
+.navigation {
+	margin: 10px auto 25px auto;
+	text-align: left;
+}
+.review:first-line {font-weight: normal;}
+	{
+	font-style: italic;
+	padding: inherit; }
+.methode {
+	vertical-align: text-top;
+}
+td.description {
+	min-width: 450px;
+	max-width: 650px;
+	text-align: left;
+	padding: 5px;
+	margin: 0px;
+}
+
+
+h1 {
+	font-family:Helvetica, Verdana, sans-serif;
+	color: #0050F0;}
+h2 {
+	font-family:Helvetica, Verdana, sans-serif;
+	color: #4572F2;}
+h3 {
+	font-family:Helvetica, Verdana, sans-serif;
+	color: #2c2c2c;
+	font-size: 110%;
+	padding: 20px;}
+p {
+	color: #2c2c2c;
+	padding: 20px;}
+p.imagetekst 
+	{
+	margin:auto auto auto 200px;
+	text-align: left; }
+img.kleinliggend
+	{
+	width:330px;
+	height: 210px;}
+img.kleinstaand
+	{
+	width:220px;
+	height: 360px;}
+img.kleinvierkant
+	{
+	width:100px;
+	height: 100px;}
+img.mediumvierkant
+	{
+	width:250px;
+	height: 250px;}
+img.grootvierkant
+	{
+	width:500px;
+	height: 500px;}
+img.align-left {
+	float:left;
+	margin-right: 10px;}
+img.align-right {
+	float:right;
+	margin-right: 10px;}
+

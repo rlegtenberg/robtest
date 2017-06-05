@@ -1,0 +1,98 @@
+﻿body {
+	font-family:Helvetica, Verdana, sans-serif;
+} 
+.hoofd {
+	height:	196px;
+	background-color:#ffffff;
+	margin: 0 -20px 0 -20px;
+	width: 480px auto 480px auto;
+	padding: inherit;
+	} 
+.page {
+	height:	700px;
+	background-color:#C48016;
+	width: 480px auto 480px auto;
+	padding: inherit;
+	} 
+.logo {
+	width: 235 px;
+	margin: 0px 20px 0px 20px;
+}
+.page .tegelblok {
+	float: left;
+	width: 90.0%; /* 456px / 480 px */
+	padding: 20px;
+}
+tr {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+td {
+    float: left;
+}
+
+td a {
+    
+    color: #FFFFFF;
+    text-align: center;
+	font-weight: bold;
+    padding: inherit;
+    text-decoration: none;
+}
+td a:hover {
+    background-color: none;
+}
+
+h1 { 
+	font-family:Helvetica, Verdana, sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 80%;
+	color: #C48016;
+	}
+	
+h2 {
+	font-family:Helvetica, Verdana, sans-serif;
+	font-size: 50%;
+	color: #C48016;
+	}
+h3 {
+	font-family:Helvetica, Verdana, sans-serif;
+	color: #C48016;
+	padding: inherit;}
+
+p {
+	color: #FFFFFF;
+    text-align: center;
+	font-weight: bold;
+    padding: 2px;
+    text-decoration: none;
+}
+
+
+img.logo
+	{
+	width: 235px;
+	height: 120x;
+	}
+img.top
+	{
+	width: 100px;
+	height: 100px;
+	border-radius: 8px; 
+	
+	}
+img.align-left {
+	float:left;
+	margin-left: 30px;}
+img.align-right {
+	float:right;
+	margin-right: 20px;}
+
+
+	
+	
+
